@@ -1,10 +1,10 @@
 # Latihan Mandiri
 
 ### 1. Apa saja hal-hal positif yang kamu identifikasi dari pengalaman para pemain ketika mencoba game kelompok?
-"Good", "Fun Combo of Rhythm and Bullet Hell", "Seruu". Ini merupakan respon-respon yang didapatkan dari hasil sesi playtesting game kelompok. Komen-komen positif ini didapatkan dari kedua sisi orang yang belum pernah memainkan rhythm game dan orang yang sudah memainkan rhythm game.
+"Good", "Fun Combo of Rhythm and Bullet Hell", "Seruu". Ini merupakan respon-respon yang didapatkan dari hasil sesi playtesting game kelompok. Komen-komen positif ini didapatkan dari kedua sisi orang yang belum pernah memainkan rhythm game dan orang yang sudah memainkan rhythm game. Selain itu, dalam sesi playtesting beberapa para player terasa immersed dan ingin memainkannya lagi.
 
 ### 2. Apa saja hal-hal negatif (atau, pain points) yang kamu identifikasi dari pengalaman para pemain ketika mencoba game kelompok?
-"Susah", "Hard to dodge bullets" dari beberapa responden yang memiliki opini untuk level pertama game kelompok
+"Susah", "Hard to dodge bullets" dari beberapa responden yang memiliki opini untuk level pertama game kelompok. Dalam sesi playtesting secara langsung terdapat para pemain yang belum memiliki pengalaman sama sekali dengan rhythm game/bullet hell. Sehingga, terkadang kami perlu mempraktekan secara langsung cara memainkan gamenya. Para player juga melakukan button mashing dalam memainkan rhythm(difficulty yang cukup tinggi untuk player baru mungkin jadi salah satu penyebabnya).
 
 ### 3. Dari feedback-feedback yang telah diperoleh, apakah ada isu yang terkait pencapaian kondisi flow oleh pemain?
     - Misalnya, apakah ada tantangan di dalam game yang masih kurang tepat dengan kemampuan pemain pada level tertentu?
